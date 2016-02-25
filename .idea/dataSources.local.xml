@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails Classified: test" uuid="3dc29503-9d9f-4215-8229-fdc15a6d21d4" />
+    <data-source name="Rails Classified: development" uuid="8cd00fa2-8249-458a-a090-d328b6b921b0">
+      <first-sync>true</first-sync>
+    </data-source>
+    <data-source name="Rails Classified: production" uuid="b606e907-3539-4949-a9cd-05ada0bff737">
+      <user-name>Classified</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddfe9dfe6dfebdff9dff9dfe3dfecdfe3dfefdfeedff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+    </data-source>
+  </component>
+</project>
